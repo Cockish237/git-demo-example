@@ -27,7 +27,7 @@
     - name: Copy Docker Compose file
       copy:
         src: /home/ansadmin/bamboo-docker/docker-compose.yml
-
+    - name: Replace Docker compose file
 
 
           tjowithoeiwio
